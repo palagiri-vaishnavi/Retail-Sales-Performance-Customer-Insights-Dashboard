@@ -24,4 +24,32 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 
 ## Data Cleaning
 
+**Tool Used:** Python (Pandas)
+
+**Steps Performed:**
+- Checked and handled missing values in Postal Code column
+- Removed duplicate records from the dataset
+- Converted Order Date and Ship Date to datetime format
+- Dropped unnecessary columns (Row ID, Country)
+- Extracted new features — Order Year, Order Month, Shipping Days
+- Stripped extra whitespace from text columns
+
+## Data exploration and processing
+
+### SQL
+- Filtered profitable orders, region-wise and category-wise data
+- Sorted and ranked data by Sales and Profit
+- Extracted KPIs — Total Sales, Profit, Top Customers, Monthly Trends
+
+### Excel
+- Applied filters for Region, Category, and Segment
+- Used Pivot Tables for quick Sales summary
+- Applied SUMIF and COUNTIF formulas for calculation
+
+## Data Visualization
+
+
+
+
+
 
