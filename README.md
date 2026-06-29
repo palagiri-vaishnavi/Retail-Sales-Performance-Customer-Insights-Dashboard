@@ -46,10 +46,22 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 - Used Pivot Tables for quick Sales summary
 - Applied SUMIF and COUNTIF formulas for calculation
 
-## Data Visualization
+## Data Visualization,Results and Observations
+
+[Retail_sales_powerbi_dashboard.html](https://github.com/user-attachments/files/29450355/retail_sales_powerbi_dashboard.html)
+
+- The store achieved $1.01M in total sales with $141.91K profit, maintaining a 14.03% profit margin.
+- Office Supplies was the top-performing category, contributing $365.82K (36.2%) of total sales.
+- The Consumer segment generated the highest revenue with $344.45K (34.1%) of total sales.
+- The South region recorded the highest sales ($264.44K), while the Central region earned the highest profit ($39.66K).
+- Tables ($118.09K) and Paper ($116.55K) were the best-selling sub-categories.
+- November recorded the highest monthly sales, indicating strong seasonal demand and opportunities for year-end promotions.
+
+## Recommandations
+
+- Focus on high-performing products by maintaining adequate inventory and promoting top-selling sub-categories like Tables and Paper to maximize revenue.
+- Strengthen sales in lower-performing regions by introducing targeted marketing campaigns and region-specific discounts to improve overall sales performance.
+- Leverage seasonal demand by increasing inventory and launching promotional offers before November, the highest sales month, to maximize year-end revenue.
 
 
-
-
-
-
+  
