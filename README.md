@@ -4,16 +4,32 @@
 
 In the retail industry, understanding sales trends, customer behavior, and product performance is critical for making smart business decisions. This project analyzes over 9,000 sales records from a US-based retail superstore to uncover actionable insights across products, regions, and customer segments.
 
+## Contents
+
+-[Aim](#aim)
+
+-[Tools Required](#tools-required)
+
+-[Data Source](#data-source)
+
+-[Data Cleaning](#data-cleaning)
+
+-[Data exploration and processing](#data-exploration-and-processing)
+
+-[Data Visualization,Results and Observations](#data-visualization,results-and-observations)
+
+-[Recommandations](#recommandations)
+
 ## Aim
  To Analyze retail sales data and to identify top-performing products, customer segments, and regional trends — and build an interactive dashboard to support business decisions.
 
-## 🛠️ Tools Required
+## Tools Required
 
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn (EDA & Cleaning)
 - **SQL** — MySQL/PostgreSQL (Business Queries & KPI Extraction)
 - **Power BI** — DAX, Power Query, Interactive Dashboard
 
-## 📁 Data Source
+## Data Source
 
 - **Dataset:** Sample Superstore Sales Dataset
 - **Source:** Kaggle [click here to download](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
