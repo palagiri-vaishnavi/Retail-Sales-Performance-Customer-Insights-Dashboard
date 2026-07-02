@@ -16,7 +16,7 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 
 -[Data exploration and processing](#data-exploration-and-processing)
 
--[Data Visualization,Results and Observations](#data-visualization,results-and-observations)
+-[Results and Observations](#results-and-observations)
 
 -[Recommandations](#recommandations)
 
@@ -62,9 +62,7 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 - Used Pivot Tables for quick Sales summary
 - Applied SUMIF and COUNTIF formulas for calculation
 
-## Data Visualization,Results and Observations
-
-[Retail_sales_powerbi_dashboard.html](https://github.com/user-attachments/files/29450355/retail_sales_powerbi_dashboard.html)
+## Results and Observations
 
 - The store achieved $1.01M in total sales with $141.91K profit, maintaining a 14.03% profit margin.
 - Office Supplies was the top-performing category, contributing $365.82K (36.2%) of total sales.
