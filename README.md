@@ -18,7 +18,7 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 
 -[Results and Observations](#results-and-observations)
 
--[Recommandations](#recommandations)
+-[Recommendations](#recommendations)
 
 ## Aim
  To Analyze retail sales data and to identify top-performing products, customer segments, and regional trends — and build an interactive dashboard to support business decisions.
@@ -71,7 +71,7 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 - Tables ($118.09K) and Paper ($116.55K) were the best-selling sub-categories.
 - November recorded the highest monthly sales, indicating strong seasonal demand and opportunities for year-end promotions.
 
-## Recommandations
+## Recommendations
 
 - Focus on high-performing products by maintaining adequate inventory and promoting top-selling sub-categories like Tables and Paper to maximize revenue.
 - Strengthen sales in lower-performing regions by introducing targeted marketing campaigns and region-specific discounts to improve overall sales performance.
