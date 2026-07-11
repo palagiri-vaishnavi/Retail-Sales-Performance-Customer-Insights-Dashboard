@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In the retail industry, understanding sales trends, customer behavior, and product performance is critical for making smart business decisions. This project analyzes over 9,000 sales records from a US-based retail superstore to uncover actionable insights across products, regions, and customer segments.
+In the retail industry, tracking revenue and profitability across regions is critical for making smart business decisions. This project analyzes over 9,000 sales records from a US-based retail superstore to uncover key revenue and profit trends, consolidated into a single interactive Power BI dashboard that supports data-driven decision-making.
 
 ## Contents
 
@@ -21,7 +21,8 @@ In the retail industry, understanding sales trends, customer behavior, and produ
 -[Recommendations](#recommendations)
 
 ## Aim
- To Analyze retail sales data and to identify top-performing products, customer segments, and regional trends — and build an interactive dashboard to support business decisions.
+ 
+ To analyze retail sales performance and build a single Power BI dashboard highlighting key revenue, profit, and regional trends to support business decision-making.
 
 ## Tools Required
 
