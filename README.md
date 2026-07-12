@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In the retail industry, tracking revenue and profitability across regions is critical for making smart business decisions. This project analyzes over 9,000 sales records from a US-based retail superstore to uncover key revenue and profit trends, consolidated into a single interactive Power BI dashboard that supports data-driven decision-making.
+In the retail industry, tracking revenue and profitability across regions is critical for making smart business decisions. This project analyzes over 9,000 sales records from a US-based retail superstore to uncover key revenue and profit , consolidated into a single interactive Power BI dashboard that supports data-driven decision-making.
 
 ## Contents
 
@@ -22,13 +22,14 @@ In the retail industry, tracking revenue and profitability across regions is cri
 
 ## Aim
  
- To analyze retail sales performance and build a single Power BI dashboard highlighting key revenue, profit, and regional trends to support business decision-making.
+ To analyze retail sales performance and build a single Power BI dashboard highlighting key revenue, profit, and category sales to support business decision-making.
 
 ## Tools Required
 
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn (EDA & Cleaning)
-- **SQL** — MySQL/PostgreSQL (Business Queries & KPI Extraction)
-- **Power BI** — DAX, Power Query, Interactive Dashboard
+- **Python** — Pandas, NumPy
+- **SQL** — MySQL
+- **Power BI** — DAX, Power Query
+- **Excel**
 
 ## Data Source
 
@@ -65,11 +66,12 @@ In the retail industry, tracking revenue and profitability across regions is cri
 
 ## Results and Observations
 
-- The store achieved $1.01M in total sales with $141.91K profit, maintaining a 14.03% profit margin.
-- Office Supplies was the top-performing category, contributing $365.82K (36.2%) of total sales.
+<img width="902" height="565" alt="WhatsApp Image 2026-07-11 at 11 22 37 PM" src="https://github.com/user-attachments/assets/b2c8dcd8-7ee0-482a-a4ec-b74ee737df19" />
+
+
+- The store achieved $1.01M in total sales, maintaining a 14.03% profit margin.
+- Office Supplies was the top-performing category, contributing of total sales.
 - The Consumer segment generated the highest revenue with $344.45K (34.1%) of total sales.
-- The South region recorded the highest sales ($264.44K), while the Central region earned the highest profit ($39.66K).
-- Tables ($118.09K) and Paper ($116.55K) were the best-selling sub-categories.
 - November recorded the highest monthly sales, indicating strong seasonal demand and opportunities for year-end promotions.
 
 ## Recommendations
