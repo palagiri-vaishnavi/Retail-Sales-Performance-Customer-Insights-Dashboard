@@ -66,8 +66,7 @@ In the retail industry, tracking revenue and profitability across regions is cri
 
 ## Results and Observations
 
-<img width="902" height="565" alt="WhatsApp Image 2026-07-11 at 11 22 37 PM" src="https://github.com/user-attachments/assets/b2c8dcd8-7ee0-482a-a4ec-b74ee737df19" />
-
+<img width="902" height="565" alt="retails dashboard" src="https://github.com/user-attachments/assets/224a2909-4e7f-4488-8628-fb94c8723611" />
 
 - The store achieved $1.01M in total sales, maintaining a 14.03% profit margin.
 - Office Supplies was the top-performing category, contributing of total sales.
